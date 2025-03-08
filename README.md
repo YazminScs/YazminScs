@@ -8,9 +8,6 @@
 
 📖 Mi objetivo es mejorar constantemente mis habilidades, aprender nuevas tecnologías y enfrentar desafíos que me ayuden a crecer profesionalmente. Disfruto resolviendo problemas, optimizando código y descubriendo nuevas formas de crear software eficiente y escalable.
 
-🛠️ Tecnologías y herramientas
 💻 Lenguajes: Java, JavaScript, PHP, HTML, CSS, Python.
-🚀 Frameworks: Spring.
-🛠️ Herramientas: VS Code, Git.
 
 📩 Contáctame: ysuybatec@gmail.com
