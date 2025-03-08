@@ -13,5 +13,4 @@
 🚀 Frameworks: Spring.
 🛠️ Herramientas: VS Code, Git.
 
-🔗 Encuéntrame en:
 📩 Contáctame: ysuybatec@gmail.com
